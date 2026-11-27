@@ -2,6 +2,7 @@
 env/
 venv/
 *.env
+.env
 *.pyenv
 
 # Файлы для кеширования
